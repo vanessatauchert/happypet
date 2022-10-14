@@ -1,5 +1,7 @@
 # Spotify
 
-https://vanessatauchert.github.io/Spotify/. 
+https://vanessatauchert.github.io/happypet.github.io/. 
 
-Portifolio Site responsivo, Bootstrap, HTML, CSS
+Site responsivo, Bootstrap, HTML, CSS para a Aula de marketing
+
+Trabalho para fins acadêmicos
