@@ -1,4 +1,4 @@
-# Spotify
+# HappyPet
 
 https://vanessatauchert.github.io/happypet.github.io/. 
 
